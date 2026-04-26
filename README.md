@@ -1,6 +1,6 @@
-# 🚗 Car Price Prediction — End-to-End ANN Project
+# 🚗 Car Price Prediction 
 
-A beginner-friendly Machine Learning project that uses an **Artificial Neural Network (ANN)** to predict car prices. This project covers the full ML pipeline: data loading, preprocessing, EDA, model building, evaluation, and hyperparameter tuning.
+A Machine Learning project that uses an **Artificial Neural Network (ANN)** to predict car prices. This project covers the full ML pipeline: data loading, preprocessing, EDA, model building, evaluation, and hyperparameter tuning.
 
 ---
 
